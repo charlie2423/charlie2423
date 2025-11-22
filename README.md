@@ -1,4 +1,4 @@
-## hola soy carlos 
+Data Analyst Jr | Python • SQL • Tableau | Exploración y limpieza de datos | Construyendo proyectos de análisis end-to-end
 
 <!--
 **charlie2423/charlie2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
