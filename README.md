@@ -1,5 +1,6 @@
 ## Hi there 👋, my name is Carlos 
-<img width="873" height="486" alt="Captura de pantalla 2025-11-23 233934" src="https://github.com/user-attachments/assets/bfd917d6-4c9f-4f6a-b9f8-3841f725e0da" />
+<img width="532" height="281" alt="Captura de pantalla 2025-11-24 002542" src="https://github.com/user-attachments/assets/9d6cc0d0-0443-4929-bb20-1f854d3364d7" />
+
 
 <!--
 **charlie2423/charlie2423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
