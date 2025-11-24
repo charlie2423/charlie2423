@@ -1,5 +1,8 @@
 ## Hi there 👋, my name is Carlos 
 <img width="532" height="281" alt="Captura de pantalla 2025-11-24 002542" src="https://github.com/user-attachments/assets/9d6cc0d0-0443-4929-bb20-1f854d3364d7" />
+## Habilidades
+| Python • SQL • Tableau | Data Cleaning & Visualization | BI & Insights Generation
+
 
 
 <!--
