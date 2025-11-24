@@ -1,6 +1,10 @@
 <h1 align="center">Hi , I'm Carlos  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <img width="532" height="281" alt="Captura de pantalla 2025-11-24 002542" src="https://github.com/user-attachments/assets/9d6cc0d0-0443-4929-bb20-1f854d3364d7" />
 
+I am a Data Analyst with one year of experience and a proven portfolio of data analysis projects. My passion is transforming complex datasets into valuable insights to drive strategic business decisions.
+
+I specialize in solving business problems through deep exploration and data analysis. My goal is to generate a more strategic vision that enables companies to optimize processes and achieve their goals.
+
   
 
 ## Skills 
